@@ -1,2 +1,0 @@
-# react-firstapp
-practice react 
